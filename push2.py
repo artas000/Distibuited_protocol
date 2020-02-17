@@ -8,7 +8,7 @@ from flask import Flask
 from flask import request
 app = Flask(__name__)
 
-#perchè 1 è spesso non informato?
+
 
 #Breath before speaking protocol for rumor spreading with noisy comunication
 import networkx as nx
